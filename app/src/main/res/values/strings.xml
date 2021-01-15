@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">uas_clientserver</string>
+    <string name="prev_match">prev match</string>
+    <string name="next_match">next match</string>
+    <string name="favorites">favorites</string>
+    <string name="date_example">Sen, 05 Agus 2018</string>
+    <string name="club_example">Arsenal</string>
+    <string name="vs">vs</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineup">Lineups</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="defence">Defence</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtituties">Subtituties</string>
+</resources>
